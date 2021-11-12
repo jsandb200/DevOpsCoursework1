@@ -25,7 +25,7 @@ class Dec2Hex
     
         System.out.println("Hexadecimal representation is: " + hexadecimal);
         }catch(Exception e){
-            System.out.println("Invalid input. Please try again.");
+            System.out.println("Invalid input. Please try again!");
 
 
         }
